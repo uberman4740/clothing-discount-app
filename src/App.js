@@ -27,7 +27,7 @@ class App extends Component {
                     </div>
                     <div className="gap-cash">
                         <h4>
-                            You can also use you
+                            You can also use your
                         </h4>
                         <h1>
                             GAP CASH
